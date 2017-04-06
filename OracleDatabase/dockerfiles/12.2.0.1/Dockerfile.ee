@@ -20,11 +20,11 @@
 #
 # Pull base image
 # ---------------
-FROM oraclelinux:7-slim
+FROM centos:centos7
 
 # Maintainer
 # ----------
-MAINTAINER Gerald Venzl <gerald.venzl@oracle.com>
+
 
 # Environment variables required for this build (do NOT change)
 # -------------------------------------------------------------
